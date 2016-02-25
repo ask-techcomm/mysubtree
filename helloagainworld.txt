@@ -1,1 +1,0 @@
-This file is created after the directory has been moved to a repo of its own.
